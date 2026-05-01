@@ -8,6 +8,7 @@ This project analyzes sales data using Python and Pandas.
 - Pandas
 
 ## Features
+- Visualizes sales using bar charts
 - Displays product-wise sales
 - Calculates total revenue
 
